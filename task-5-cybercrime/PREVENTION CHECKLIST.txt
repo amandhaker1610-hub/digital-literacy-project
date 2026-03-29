@@ -1,0 +1,13 @@
+‘Stay Safe Online’ Checklist for College Students
+Never enter your UPI PIN to receive money: Remember the golden rule of UPI—your PIN is strictly for sending money or checking your balance, never for receiving funds.
+Verify the receiver's UPI ID: Before completing a transaction via a QR code at a campus canteen or sending money to a batchmate, always double-check the verified name that pops up on your screen.
+Enable Two-Factor Authentication (2FA): Turn on 2FA for all your critical accounts, including your university portal, email, and social media, to add an extra layer of security.
+Avoid public Wi-Fi for banking: Do not make financial transactions or log into sensitive accounts while connected to open, unsecured Wi-Fi networks at cafes or campus hotspots.
+Beware of WhatsApp/SMS phishing: Do not click on unverified links offering "guaranteed internships," "free data," or urgent warnings that your bank account is blocked.
+Use strong, unique passwords: Avoid using your date of birth, phone number, or "password123." Use a mix of symbols, numbers, and letters.
+Keep your devices updated: Regularly install system and app updates on your phone and laptop, as these often contain vital security patches.
+Audit your digital footprint: Limit the amount of personal data (like your phone number or exact address) visible on your public social media profiles to prevent identity theft.
+REPORTING CYBERCRIME IN INDIA 
+If you or someone you know falls victim to a cybercrime or financial fraud, report it immediately:
+Website: National Cyber Crime Reporting Portal (www.cybercrime.gov.in)
+National Helpline Number: 1930
